@@ -9,8 +9,6 @@ var gameState = "start";
 function preload() {
 
   pingSound = loadSound("Other Assets/Ping.wav");
-  font = loadFont("Other Assets/Tourney-Regular.ttf");
-  music = loadSound("Other Assets/Music go brrrr.mp3");
 
 }
 
